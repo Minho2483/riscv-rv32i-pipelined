@@ -1,0 +1,11 @@
+obj_dir/
+build/
+*.vcd
+*.fst
+*.vvp
+*.bit
+*.fs
+*.log
+*.o
+*.elf
+.DS_Store
